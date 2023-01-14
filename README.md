@@ -1,5 +1,5 @@
 # Projetos JavaScript Alura 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> <img src="https://www.alura.com.br/assets/img/alura-logo.svg" width="40"/> <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> <img src="https://www.alura.com.br/assets/img/alura-logo.svg" width="40"/> <img src="https://media.giphy.com/media/kBrXyorjXo9Rh66RUf/giphy.gif" width="40"/>
 ## Projeto 1: 
 <p>Curso: JavaScript: programando na linguagem da web</p>
 <p><b>Aparecida Nutricionista</b> <img src="programando-web/favicon.ico"/></p>
