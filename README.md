@@ -16,7 +16,7 @@
 
 ## Projeto 2:
 <p>Curso: JavaScript na Web: armazenando dados no navegador</p>
-<p><b>Mochila de Viagem</b> <img src="https://media.giphy.com/media/mBcsTLWm15ZaANjyzS/giphy.gif" width="30"/></p>
+<p><b>Mochila de Viagem</b> <img src="https://media.giphy.com/media/mBcsTLWm15ZaANjyzS/giphy.gif" width="20"/></p>
 <img src="mochila-de-viagem/imgs/site.PNG" width="800"/>
 <p>Funcionalidades do site:</p>
 <ul>
